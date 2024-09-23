@@ -39,4 +39,5 @@ bin/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Storesrc/main/resources/serviceAccountKey.json
+src/main/resources/serviceAccountKey.json
