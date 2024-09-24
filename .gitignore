@@ -42,3 +42,8 @@ bin/
 .DS_Storesrc/main/resources/serviceAccountKey.json
 src/main/resources/serviceAccountKey.json
 
+src/main/resources/serviceAccountKey.json
+src/main/resources/serviceAccountKey.json
+bin/
+build/
+out/
